@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"khrplatform.h": "c",
+			"ostream": "cpp"
+		}
+	}
+}

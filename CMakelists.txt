@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.26)
+
+project(Minecraftgame VERSION 0.1)
+
+add_executable(${PROJECT_NAME} game.cpp glad.c)
+
+target_link_libraries(${PROJECT_NAME} glfw3 opengl32 gdi32 user32 shell32 kernel32)
