@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Minecraftgame.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\Minecraftgame.dir/objects.a @CMakeFiles\Minecraftgame.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Minecraftgame.dir/objects.a -Wl,--no-whole-archive -o Minecraftgame.exe -Wl,--out-implib,libMinecraftgame.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Minecraftgame.dir\linkLibs.rsp

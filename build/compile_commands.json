@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Emachines/OneDrive/Documents/CODING/CMAKE/OpenGL/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Minecraftgame.dir\\game.cpp.obj -c C:\\Users\\Emachines\\OneDrive\\Documents\\CODING\\CMAKE\\OpenGL\\game.cpp",
+  "file": "C:/Users/Emachines/OneDrive/Documents/CODING/CMAKE/OpenGL/game.cpp",
+  "output": "CMakeFiles/Minecraftgame.dir/game.cpp.obj"
+},
+{
+  "directory": "C:/Users/Emachines/OneDrive/Documents/CODING/CMAKE/OpenGL/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\Minecraftgame.dir\\glad.c.obj -c C:\\Users\\Emachines\\OneDrive\\Documents\\CODING\\CMAKE\\OpenGL\\glad.c",
+  "file": "C:/Users/Emachines/OneDrive/Documents/CODING/CMAKE/OpenGL/glad.c",
+  "output": "CMakeFiles/Minecraftgame.dir/glad.c.obj"
+}
+]

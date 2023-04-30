@@ -1,0 +1,3 @@
+C:/Users/Emachines/OneDrive/Documents/CODING/CMAKE/OpenGL/build/CMakeFiles/Minecraftgame.dir
+C:/Users/Emachines/OneDrive/Documents/CODING/CMAKE/OpenGL/build/CMakeFiles/edit_cache.dir
+C:/Users/Emachines/OneDrive/Documents/CODING/CMAKE/OpenGL/build/CMakeFiles/rebuild_cache.dir
